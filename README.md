@@ -6,6 +6,7 @@
 - Dart programming language
 - MVVM Architecture
 - Bloc state management (cubit)
+- Responsive ( Mobile - Tablet )
 - Animation
 - Firebase
 - Solid principles
