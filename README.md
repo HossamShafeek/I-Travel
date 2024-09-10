@@ -1,16 +1,15 @@
-# i_travel
+# I Travel
+![ITravel](https://github.com/user-attachments/assets/93926830-255c-4001-88f5-9b9546557969)
 
-A new Flutter project.
+# Using:
+- Flutter framework
+- Dart programming language
+- MVVM Architecture
+- Bloc state management (cubit)
+- Animation
+- Firebase
+- Solid principles
+- Dependency injection
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📷 Screens:
+    <img width="1700" alt="Screens" src="https://github.com/user-attachments/assets/44c9688a-1c3f-4f58-af17-ae0e9b5529b9">
